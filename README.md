@@ -14,3 +14,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 adding extra data to the file for jenkins execution nd execution 2
+hello guys how r u
